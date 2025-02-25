@@ -28,3 +28,4 @@ contract TicketNFT is ERC721, Ownable {
         ticketPrice = _price;
     }
 }
+
